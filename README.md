@@ -7,5 +7,6 @@ This repository contains my notes, exercises, and examples related to learning t
 3. Sentiment analysis of movie reviews, with a focus on Embedding layers
 
 TF Notes:
+
 Tensorflow CNN Layers - Learning about the usage behind each of the layer types and what parameters they can use
 TF Layers Arguement Options - Learning about parameters that have different options. E.g. activation functions
