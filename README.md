@@ -7,7 +7,8 @@ TF Projects:
 1. Simple Digit classifier using tensorflow dense Layers
 2. Importing data into google colab
 3. Sentiment analysis of movie reviews, with a focus on Embedding layers
-4. Using Sonar Dataset to predict whether object is rock or metal. But using dropout layers to combat overfitting
+4. Using Sonar Dataset to predict whether object is rock or metal. But using dropout layers to combat overfitting  
+5. Autoencoders - using an autoencoder to denoise an mnist dataset
 
 TF Notes:
 
