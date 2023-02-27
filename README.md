@@ -11,7 +11,7 @@ TF Projects:
 
 TF Notes:
 
-Tensorflow CNN Layers - Learning about the usage behind each of the layer types and what parameters they can use
+Tensorflow CNN Layers - Learning about the usage behind each of the layer types and what parameters they can use  
 TF Layers Arguement Options - Learning about parameters that have different options. E.g. activation functions  
-NN Architechture - Learning about the different architectures behind common deep learning practices
+NN Architechture - Learning about the different architectures behind common deep learning practices  
 
