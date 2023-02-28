@@ -8,8 +8,9 @@ TF Projects:
 2. Importing data into google colab
 3. Sentiment analysis of movie reviews, with a focus on Embedding layers
 4. Using Sonar Dataset to predict whether object is rock or metal. But using dropout layers to combat overfitting  
-5. Autoencoders - using an autoencoder to denoise an mnist dataset
+5. Autoencoders - using an autoencoder on mnist dataset to compress and upscale images
 6. Convolutional autoencoder - running convolutional neural network to predict images from mnist dataset
+7. denoising autoencoder - convolutional neural network trained to reduce noise on mnist dataset
 
 TF Notes:
 
