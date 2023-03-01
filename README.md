@@ -10,7 +10,8 @@ TF Projects:
 4. Using Sonar Dataset to predict whether object is rock or metal. But using dropout layers to combat overfitting  
 5. Autoencoders - using an autoencoder on mnist dataset to compress and upscale images
 6. Convolutional autoencoder - running convolutional neural network to predict images from mnist dataset
-7. denoising autoencoder - convolutional neural network trained to reduce noise on mnist dataset
+7. denoising autoencoder - convolutional neural network trained to reduce noise on mnist dataset  
+8. Simple Linear Regression - using Tensorflow library to preform linear regression on dataset
 
 TF Notes:
 
