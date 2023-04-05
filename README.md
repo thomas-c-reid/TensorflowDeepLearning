@@ -17,6 +17,7 @@ TF Projects:
 11. ARIMA Time series forecasting - building an arima model with auto_arima to predict airline passenger trends over time
 12. Feed forward time series forecasting - building a simple Dense network to predict airline passenger trends over time
 13. Time Series forecasting using LSTM - an introduction to LSTM using it to predict airline passenger trends over time
+14. Text Prediction using LTSM - training a LTSM layered model to predict next word in a sentence, letter by letter
 
 TF Notes:
 
