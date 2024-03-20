@@ -18,6 +18,7 @@ TF Projects:
 12. Feed forward time series forecasting - building a simple Dense network to predict airline passenger trends over time
 13. Time Series forecasting using LSTM - an introduction to LSTM using it to predict airline passenger trends over time
 14. Text Prediction using LTSM - training a LTSM layered model to predict next word in a sentence, letter by letter
+15. An introduction to using sklearn pipelines for data preprocessing when building machine learning models
 
 TF Notes:
 
